@@ -6,8 +6,10 @@ buildscript {
         targetSdkVersion = 34
         ndkVersion = "25.1.8937393"
         kotlinVersion = "1.8.0"
+        agp_version = '8.2.2'
     }
     repositories {
+        maven { url 'https://maven.google.com' }
         google()
         mavenCentral()
     }

@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Projeto tem como principal filinalide desenvolver uma aplicação móvel que funcione como filtro de consulta à dados da tabela FIPE.
+Projeto tem como principal finalidade desenvolver uma aplicação móvel que funcione como filtro de consulta à dados da tabela FIPE. Projeto criado utilizando React Native e estruturado seguindo modelo Atomic Design, visando maior escalabilidade e facilidade na manutenção.
 
 ## Pré-requisitos
 
