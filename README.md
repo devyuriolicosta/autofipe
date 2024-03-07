@@ -11,7 +11,7 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina. Além disso, 
 ## Instalação
 
 1. Clone o repositório:
-    git clone https://github.com/devyuriolicosta/autofit.git
+    git clone https://github.com/devyuriolicosta/autofipe.git
 
 2. Navegue até o diretório do projeto:
     cd autofipe
